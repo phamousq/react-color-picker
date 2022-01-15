@@ -1,0 +1,33 @@
+#App {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+#colorBox {
+  /* place the text in the middle of the box */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  /* set a discrete size for the box */
+  width: 300px;
+  height: 300px;
+
+  box-shadow: 2px 2px 4px #000000;
+}
+
+#colorInput {
+  margin-top: 10px;
+  width: 300px;
+}
+
+#footer {
+  width: 100%;
+  padding: 0.25em;
+  position: fixed;
+  bottom: 0;
+  text-align: center;
+}
