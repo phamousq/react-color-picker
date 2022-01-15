@@ -4,10 +4,10 @@ This project was completed as a challenge posed in a [youtube video](https://www
 ## Getting Started
 Test this project out yourself by running the following commands in your terminal:
 ```
-# Clone the project: [github cli tool](https://cli.github.com/)
+# Clone the project: github cli tool
 gh repo clone phamousq/odin-project
 
-# install packages with your package manager of choice: [antfu/ni -> pnpm](https://github.com/antfu/ni)
+# install packages with your package manager of choice: antfu/ni -> pnpm
 ni # select pnpm
 
 # run the project in the dev server!
@@ -35,5 +35,6 @@ align-items: center;
 ```
 
 ## Technologies used:
+- [github cli tool](https://cli.github.com/)
 - [vite -> react](https://vitejs.dev/guide/)
 - [antfu/ni -> pnpm](https://github.com/antfu/ni)
